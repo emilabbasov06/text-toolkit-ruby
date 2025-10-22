@@ -1,3 +1,3 @@
 require_relative "text-toolkit/text-toolkit"
 
-p TextToolkit.reverse_words("Hello THERE my DEAR friends @emil.abb_06,11 @whosezos 22")
+puts "This is a place where you can test the methods inside the TextTookit module."
